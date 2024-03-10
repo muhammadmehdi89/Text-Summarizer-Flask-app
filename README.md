@@ -9,7 +9,7 @@ This repository contains a Flask web application for text summarization using th
 ## Using the Text Summarizer
 1. Enter the text you want to summarize into the input field.
 2. Click the "Submit" button.
-3. View the summarized text in the output section below.
+3. View the summarized text in the output section.
 
 ## Technologies Used
 1. Python
